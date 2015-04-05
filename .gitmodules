@@ -1,0 +1,3 @@
+[submodule "objc.supp"]
+	path = objc.supp
+	url = https://github.com/xouabita/objc.supp
